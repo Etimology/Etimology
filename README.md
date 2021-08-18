@@ -1,4 +1,4 @@
-### Hi there, I'm Etimology 👋
+### Hi there, I'm Mattia 👋
 
 - 🛸 I can code in Scratch, Batch Script
 - 🌱 I’m currently learning JS
