@@ -1,7 +1,4 @@
 ### Hi there, I'm Mattia 👋
-```ppy
-print('Hello there, I'm Mattia 👋)
-```
 
 - 🛸 I can code in Scratch, Python (A Little)
 - 🌱 I’m currently learning Python, Batch Script
