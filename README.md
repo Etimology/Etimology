@@ -9,4 +9,6 @@
 
 <h1 align="center">Top Languages<h1>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etimology&layout=compact"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etimology&layout=compact">
+</p>
