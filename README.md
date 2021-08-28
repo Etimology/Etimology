@@ -9,4 +9,4 @@
 
 <h1 align="center">Top Languages<h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etimology&layout=compact)](https://github.com/Etimology/Etimology)
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etimology&layout=compact)](https://github.com/Etimology/Etimology"/></a>
