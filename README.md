@@ -1,5 +1,4 @@
 # Hello there, I'm Mattia 👋
-
 - 🌱 I’m currently learning Python, Ruby, Batch Script
 - 🔭 I’m currently working on new projects
 
